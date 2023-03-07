@@ -1,0 +1,1 @@
+cmake --build out -- -j 4
